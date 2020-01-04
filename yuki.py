@@ -282,4 +282,5 @@ handlers = [start_handler,
 for handler in handlers:
     dispatcher.add_handler(handler)
 
+# add some additional documentation
 updater.start_polling()
