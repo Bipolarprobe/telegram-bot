@@ -1,0 +1,8 @@
+*.cfg
+geany-project
+yuki
+bin
+include
+__pycache__
+tests
+lib
